@@ -1,0 +1,69 @@
+﻿FM Genie Scout 2005 — PlayerClubReferenceDiagnostic 0.0.20
+================================================================================================
+Arquivo: C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.4\FMGenieScout2005-gamedb-20260728-213718\game_db.payload.bin
+Tamanho: 11.127.792 bytes
+SHA-256: b45c75fed7eb3e69588fcfae20987565621d3d3b6055401f6e146b0d6435171a
+
+Clube: CR Flamengo
+ClubDatabaseId: 322
+SaveClubIndex: 51
+
+Jogadores esperados: 26
+Jogadores com ao menos uma ocorrência: 26
+Ocorrências totais de nomes: 768
+Hits de ClubDatabaseId: 5
+Hits de SaveClubIndex: 124
+
+Melhores offsets repetidos:
+  CLUB_SAVE_INDEX    rel=    +22 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=    +43 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=    +78 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_DATABASE_ID   rel=    +80 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   -122 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   +148 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   -153 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   -183 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   -218 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   -249 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   +299 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   +302 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   -308 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   -322 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   +330 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   +333 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   -337 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   +340 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   -353 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   -407 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   +432 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   +439 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   +442 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   +470 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   -553 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   +562 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   -565 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   +566 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   -567 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   +583 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   -598 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   -637 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   +663 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   +702 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   -708 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   -732 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   -739 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   +743 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   -766 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+  CLUB_SAVE_INDEX    rel=   +780 jogadores= 1 ocorrencias=  1 cobertura=3,8% | ISOLADO
+
+Interpretação:
+  AINDA_INCONCLUSIVO: o melhor agrupamento foi CLUB_SAVE_INDEX no offset +22, cobrindo 1 jogadores.
+
+Arquivos gerados:
+  player-club-reference-report.txt
+  player-name-occurrences.csv
+  player-club-reference-hits.csv
+  player-club-relative-offsets.csv
+  player-club-top-contexts.txt
+  players-not-found.txt
+O arquivo de origem não foi modificado.
