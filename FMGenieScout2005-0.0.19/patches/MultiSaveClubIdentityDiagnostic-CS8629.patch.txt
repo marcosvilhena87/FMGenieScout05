@@ -1,0 +1,15 @@
+No arquivo:
+src/FMGenieScout2005.Core/Diagnostics/MultiSaveClubIdentityDiagnostic.cs
+
+Substitua:
+
+foreach (MultiSaveClubIdentityRecord x in report.Clubs.Where(x => x.IndexDelta.HasValue).OrderByDescending(x => Math.Abs(x.IndexDelta!.Value)).Take(30))
+
+Por:
+
+foreach (MultiSaveClubIdentityRecord x in report.Clubs
+    .Where(x => x.IndexDelta.HasValue)
+    .OrderByDescending(x => Math.Abs(x.IndexDelta.GetValueOrDefault()))
+    .Take(30))
+
+Motivo: com Nullable habilitado e TreatWarningsAsErrors=true, o operador ! não elimina o CS8629 nesse encadeamento.
