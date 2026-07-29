@@ -1,0 +1,49 @@
+﻿division,display_name,club_id,found,club_record_index,header_offset,parsed_name,status
+1,"Atlético Paranaense",107206,True,781,0x000CACF5,"C Atlético Paranaense",CONFIRMADO
+1,"Atlético Mineiro",314,True,55,0x00092D46,"C Atlético Mineiro",CONFIRMADO
+1,"Botafogo",316,True,57,0x00092EC8,"Botafogo FR",CONFIRMADO
+1,"Corinthians",319,True,58,0x00092FFC,"SC Corinthians Paulista",CONFIRMADO
+1,"Coritiba",104776,True,761,0x000C9A6A,"Coritiba FC",CONFIRMADO
+1,"Criciúma",320,False,,,"",NAO_ENCONTRADO
+1,"Cruzeiro",321,True,59,0x00093102,"Cruzeiro EC",CONFIRMADO
+1,"Figueirense",301306,True,968,0x000D43B7,"Figueirense FC",CONFIRMADO
+1,"Flamengo",322,True,60,0x000931E0,"CR Flamengo",CONFIRMADO
+1,"Fluminense",323,True,61,0x000932D7,"Fluminense FC",CONFIRMADO
+1,"Goiás",102555,False,,,"",NAO_ENCONTRADO
+1,"Grêmio",324,True,62,0x000933B1,"Grêmio FBPA",CONFIRMADO
+1,"Guarani",325,True,63,0x0009348D,"Guarani FC",CONFIRMADO
+1,"Internacional",326,True,64,0x000935B3,"SC Internacional",CONFIRMADO
+1,"Juventude",327,True,65,0x00093675,"EC Juventude",CONFIRMADO
+1,"Palmeiras",329,True,67,0x0009382F,"SE Palmeiras",CONFIRMADO
+1,"Paraná",330,True,68,0x000938EB,"Paraná C",CONFIRMADO
+1,"Paysandu",331,False,,,"",NAO_ENCONTRADO
+1,"Ponte Preta",332,True,69,0x000939CD,"AA Ponte Preta",CONFIRMADO
+1,"Santos",335,True,71,0x00093B8B,"Santos FC",CONFIRMADO
+1,"São Caetano",301354,True,970,0x000D4527,"AD São Caetano",CONFIRMADO
+1,"São Paulo",337,True,72,0x00093C99,"São Paulo FC",CONFIRMADO
+1,"Vasco",339,True,73,0x00093D7B,"CR Vasco da Gama",CONFIRMADO
+1,"Vitória (BA)",340,True,74,0x00093E37,"EC Vitória",CONFIRMADO
+2,"América (MG)",107201,False,,,"",NAO_ENCONTRADO
+2,"América (RN)",107203,False,,,"",NAO_ENCONTRADO
+2,"Anapolina",301146,False,,,"",NAO_ENCONTRADO
+2,"Avaí",107208,False,,,"",NAO_ENCONTRADO
+2,"Bahia",315,True,56,0x00092DFA,"EC Bahia",CONFIRMADO
+2,"Brasiliense",309670,False,,,"",NAO_ENCONTRADO
+2,"CRB",301102,False,,,"",NAO_ENCONTRADO
+2,"Caxias",301266,False,,,"",NAO_ENCONTRADO
+2,"Ceará",104749,False,,,"",NAO_ENCONTRADO
+2,"Fortaleza",104750,False,,,"",NAO_ENCONTRADO
+2,"Ituano",107216,False,,,"",NAO_ENCONTRADO
+2,"Joinville",301310,False,,,"",NAO_ENCONTRADO
+2,"Londrina",900678,False,,,"",NAO_ENCONTRADO
+2,"Marília",311026,True,976,0x000D49B1,"Marília AC",CONFIRMADO
+2,"Mogi Mirim",107222,False,,,"",NAO_ENCONTRADO
+2,"Náutico",328,True,66,0x00093733,"C Náutico Capibaribe",CONFIRMADO
+2,"Paulista",301338,True,969,0x000D446D,"Paulista FC",CONFIRMADO
+2,"Portuguesa",333,True,70,0x00093A9D,"A Portuguesa D",CONFIRMADO
+2,"Sport Recife",338,False,,,"",NAO_ENCONTRADO
+2,"Remo",334,False,,,"",NAO_ENCONTRADO
+2,"Santa Cruz",107232,False,,,"",NAO_ENCONTRADO
+2,"Santo André",301352,False,,,"",NAO_ENCONTRADO
+2,"São Raimundo (AM)",301111,False,,,"",NAO_ENCONTRADO
+2,"Vila Nova (GO)",311107,False,,,"",NAO_ENCONTRADO
