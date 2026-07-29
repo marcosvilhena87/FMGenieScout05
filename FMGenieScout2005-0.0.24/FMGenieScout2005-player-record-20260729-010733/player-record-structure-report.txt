@@ -1,0 +1,27 @@
+﻿FM Genie Scout 2005 — PlayerRecordStructureDiagnostic 0.0.24
+================================================================================================
+Arquivo: C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.4\FMGenieScout2005-gamedb-20260728-213718\game_db.payload.bin
+Tamanho: 11.127.792 bytes
+SHA-256: b45c75fed7eb3e69588fcfae20987565621d3d3b6055401f6e146b0d6435171a
+Hipótese testada: ClubSaveIndex em PersonDatabaseIdOffset -17
+Ocorrências avaliadas: 52
+Pessoas não resolvidas: 0
+
+Resultado por clube:
+  CR Flamengo               DBID=   322 SaveIndex=   51 | conhecidos=9 resolvidos=9 confirmados=7 jogadores/7 ocorrências | outro_clube=2 inválidos=8 | EVIDENCIA_FORTE
+  SC Corinthians Paulista   DBID=   319 SaveIndex=   48 | conhecidos=9 resolvidos=9 confirmados=0 jogadores/0 ocorrências | outro_clube=7 inválidos=10 | INCONCLUSIVO
+
+Registros confirmados:
+  André Bahia              dbid=  311169 dbid_offset=0x007F3D62 club_offset=0x007F3D51 save_index=   51 → CR Flamengo
+  Andrezinho               dbid=  302728 dbid_offset=0x00799468 club_offset=0x00799457 save_index=   51 → CR Flamengo
+  Bruno Santos             dbid= 8832815 dbid_offset=0x0094E44B club_offset=0x0094E43A save_index=   51 → CR Flamengo
+  Douglas Silva            dbid= 3300410 dbid_offset=0x008CFFC2 club_offset=0x008CFFB1 save_index=   51 → CR Flamengo
+  Fabiano Eller            dbid= 3300219 dbid_offset=0x008CB64B club_offset=0x008CB63A save_index=   51 → CR Flamengo
+  Júlio César Moraes       dbid= 8825041 dbid_offset=0x009308E9 club_offset=0x009308D8 save_index=   51 → CR Flamengo
+  Reginaldo Araújo         dbid= 3300780 dbid_offset=0x008D7A88 club_offset=0x008D7A77 save_index=   51 → CR Flamengo
+
+Interpretação automática:
+  AINDA_REVISAR: um ou mais clubes não atingiram 6 jogadores confirmados no offset -17.
+
+Arquivos gerados: player-record-structure-report.txt, player-record-candidates.csv, player-club-resolution.csv, player-record-contexts.txt, player-record-variant-candidates.csv e people-not-resolved.txt.
+O arquivo de origem não foi modificado.

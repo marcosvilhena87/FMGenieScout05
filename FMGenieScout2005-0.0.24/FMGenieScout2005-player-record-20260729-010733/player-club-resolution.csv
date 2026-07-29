@@ -1,0 +1,35 @@
+﻿expected_club,display_name,person_database_id,person_database_id_offset,club_save_index,resolved_club_database_id,resolved_club_name,classification
+"SC Corinthians Paulista","Alessandro",3902245,0x008FB9FA,189,932,"Kickers Offenbach",PLAYER_RECORD_OUTRO_CLUBE
+"SC Corinthians Paulista","Bruno Octávio",8832887,0x0058F06D,1761635328,,"",CLUB_INDEX_INVALIDO
+"SC Corinthians Paulista","Bruno Octávio",8832887,0x0062C2B8,1862297856,,"",CLUB_INDEX_INVALIDO
+"SC Corinthians Paulista","Bruno Octávio",8832887,0x009530F3,0,,"",CLUB_INDEX_INVALIDO
+"SC Corinthians Paulista","Dinélson",320774,0x0062110F,1845522176,,"",CLUB_INDEX_INVALIDO
+"SC Corinthians Paulista","Dinélson",320774,0x0088511C,54,325,"Guarani FC",PLAYER_RECORD_OUTRO_CLUBE
+"SC Corinthians Paulista","Édson Araújo",308345,0x0061E4E5,1862298112,,"",CLUB_INDEX_INVALIDO
+"SC Corinthians Paulista","Édson Araújo",308345,0x007DC3AA,62,333,"A Portuguesa D",PLAYER_RECORD_OUTRO_CLUBE
+"SC Corinthians Paulista","Fábio Baiano",3300471,0x008D1153,51,322,"CR Flamengo",PLAYER_RECORD_OUTRO_CLUBE
+"SC Corinthians Paulista","Fábio Costa",6900151,0x00922F20,64,335,"Santos FC",PLAYER_RECORD_OUTRO_CLUBE
+"SC Corinthians Paulista","Luciano Ratinho",6900008,0x0061C56A,1862297600,,"",CLUB_INDEX_INVALIDO
+"SC Corinthians Paulista","Luciano Ratinho",6900008,0x0091C030,53,324,"Grêmio FBPA",PLAYER_RECORD_OUTRO_CLUBE
+"SC Corinthians Paulista","Marcelo Magalhães",302580,0x00626C98,1929405696,,"",CLUB_INDEX_INVALIDO
+"SC Corinthians Paulista","Marcelo Magalhães",302580,0x007978ED,53,324,"Grêmio FBPA",PLAYER_RECORD_OUTRO_CLUBE
+"SC Corinthians Paulista","Rosinei",316596,0x00571057,1862297088,,"",CLUB_INDEX_INVALIDO
+"SC Corinthians Paulista","Rosinei",316596,0x0062B35D,1761633536,,"",CLUB_INDEX_INVALIDO
+"SC Corinthians Paulista","Rosinei",316596,0x0083F494,0,,"",CLUB_INDEX_INVALIDO
+"CR Flamengo","André Bahia",311169,0x0061A834,1627416832,,"",CLUB_INDEX_INVALIDO
+"CR Flamengo","André Bahia",311169,0x007F3D62,51,322,"CR Flamengo",PLAYER_RECORD_CONFIRMADO
+"CR Flamengo","Andrezinho",302728,0x00799468,51,322,"CR Flamengo",PLAYER_RECORD_CONFIRMADO
+"CR Flamengo","Bruno Santos",8832815,0x0094E44B,51,322,"CR Flamengo",PLAYER_RECORD_CONFIRMADO
+"CR Flamengo","Dimba",303048,0x00569592,1694524416,,"",CLUB_INDEX_INVALIDO
+"CR Flamengo","Dimba",303048,0x00626A0B,1627415040,,"",CLUB_INDEX_INVALIDO
+"CR Flamengo","Dimba",303048,0x0079B8A7,78,400,"O'Higgins de Rancagua",PLAYER_RECORD_OUTRO_CLUBE
+"CR Flamengo","Douglas Silva",3300410,0x008CFFC2,51,322,"CR Flamengo",PLAYER_RECORD_CONFIRMADO
+"CR Flamengo","Fabiano Eller",3300219,0x00622E94,1912628480,,"",CLUB_INDEX_INVALIDO
+"CR Flamengo","Fabiano Eller",3300219,0x008CB64B,51,322,"CR Flamengo",PLAYER_RECORD_CONFIRMADO
+"CR Flamengo","Júlio César Moraes",8825041,0x0062A289,1929405696,,"",CLUB_INDEX_INVALIDO
+"CR Flamengo","Júlio César Moraes",8825041,0x009308E9,51,322,"CR Flamengo",PLAYER_RECORD_CONFIRMADO
+"CR Flamengo","Júnior Baiano",6900111,0x0061BF85,1862299136,,"",CLUB_INDEX_INVALIDO
+"CR Flamengo","Júnior Baiano",6900111,0x00920E5F,189,932,"Kickers Offenbach",PLAYER_RECORD_OUTRO_CLUBE
+"CR Flamengo","Reginaldo Araújo",3300780,0x00591479,1862298112,,"",CLUB_INDEX_INVALIDO
+"CR Flamengo","Reginaldo Araújo",3300780,0x00623BFC,1862298112,,"",CLUB_INDEX_INVALIDO
+"CR Flamengo","Reginaldo Araújo",3300780,0x008D7A88,51,322,"CR Flamengo",PLAYER_RECORD_CONFIRMADO
