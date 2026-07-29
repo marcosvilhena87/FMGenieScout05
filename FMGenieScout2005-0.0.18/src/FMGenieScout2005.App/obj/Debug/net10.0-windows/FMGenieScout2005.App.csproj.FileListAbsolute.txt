@@ -1,0 +1,36 @@
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\obj\Debug\net10.0-windows\FMGenieScout2005.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\obj\Debug\net10.0-windows\FMGenieScout2005.App.AssemblyInfoInputs.cache
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\obj\Debug\net10.0-windows\FMGenieScout2005.App.AssemblyInfo.cs
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\obj\Debug\net10.0-windows\FMGenieScout2005.App.csproj.CoreCompileInputs.cache
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\bin\Debug\net10.0-windows\FMGenieScout2005.exe
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\bin\Debug\net10.0-windows\FMGenieScout2005.deps.json
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\bin\Debug\net10.0-windows\FMGenieScout2005.runtimeconfig.json
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\bin\Debug\net10.0-windows\FMGenieScout2005.dll
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\bin\Debug\net10.0-windows\FMGenieScout2005.pdb
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\bin\Debug\net10.0-windows\FMGenieScout2005.Core.dll
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\bin\Debug\net10.0-windows\FMGenieScout2005.Core.pdb
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\obj\Debug\net10.0-windows\FMGenieScout2005.App.csproj.AssemblyReference.cache
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\obj\Debug\net10.0-windows\FMGenieS.C6E5F8D9.Up2Date
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\obj\Debug\net10.0-windows\FMGenieScout2005.dll
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\obj\Debug\net10.0-windows\refint\FMGenieScout2005.dll
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\obj\Debug\net10.0-windows\FMGenieScout2005.pdb
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\obj\Debug\net10.0-windows\FMGenieScout2005.App.genruntimeconfig.cache
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\obj\Debug\net10.0-windows\ref\FMGenieScout2005.dll
+C:\Users\marco\Downloads\FMGenieScout2005-main\FMGenieScout2005-main\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\bin\Debug\net10.0-windows\FMGenieScout2005.exe
+C:\Users\marco\Downloads\FMGenieScout2005-main\FMGenieScout2005-main\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\bin\Debug\net10.0-windows\FMGenieScout2005.deps.json
+C:\Users\marco\Downloads\FMGenieScout2005-main\FMGenieScout2005-main\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\bin\Debug\net10.0-windows\FMGenieScout2005.runtimeconfig.json
+C:\Users\marco\Downloads\FMGenieScout2005-main\FMGenieScout2005-main\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\bin\Debug\net10.0-windows\FMGenieScout2005.dll
+C:\Users\marco\Downloads\FMGenieScout2005-main\FMGenieScout2005-main\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\bin\Debug\net10.0-windows\FMGenieScout2005.pdb
+C:\Users\marco\Downloads\FMGenieScout2005-main\FMGenieScout2005-main\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\bin\Debug\net10.0-windows\FMGenieScout2005.Core.dll
+C:\Users\marco\Downloads\FMGenieScout2005-main\FMGenieScout2005-main\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\bin\Debug\net10.0-windows\FMGenieScout2005.Core.pdb
+C:\Users\marco\Downloads\FMGenieScout2005-main\FMGenieScout2005-main\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\obj\Debug\net10.0-windows\FMGenieScout2005.App.csproj.AssemblyReference.cache
+C:\Users\marco\Downloads\FMGenieScout2005-main\FMGenieScout2005-main\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\obj\Debug\net10.0-windows\FMGenieScout2005.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Downloads\FMGenieScout2005-main\FMGenieScout2005-main\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\obj\Debug\net10.0-windows\FMGenieScout2005.App.AssemblyInfoInputs.cache
+C:\Users\marco\Downloads\FMGenieScout2005-main\FMGenieScout2005-main\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\obj\Debug\net10.0-windows\FMGenieScout2005.App.AssemblyInfo.cs
+C:\Users\marco\Downloads\FMGenieScout2005-main\FMGenieScout2005-main\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\obj\Debug\net10.0-windows\FMGenieScout2005.App.csproj.CoreCompileInputs.cache
+C:\Users\marco\Downloads\FMGenieScout2005-main\FMGenieScout2005-main\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\obj\Debug\net10.0-windows\FMGenieS.C6E5F8D9.Up2Date
+C:\Users\marco\Downloads\FMGenieScout2005-main\FMGenieScout2005-main\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\obj\Debug\net10.0-windows\FMGenieScout2005.dll
+C:\Users\marco\Downloads\FMGenieScout2005-main\FMGenieScout2005-main\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\obj\Debug\net10.0-windows\refint\FMGenieScout2005.dll
+C:\Users\marco\Downloads\FMGenieScout2005-main\FMGenieScout2005-main\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\obj\Debug\net10.0-windows\FMGenieScout2005.pdb
+C:\Users\marco\Downloads\FMGenieScout2005-main\FMGenieScout2005-main\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\obj\Debug\net10.0-windows\FMGenieScout2005.App.genruntimeconfig.cache
+C:\Users\marco\Downloads\FMGenieScout2005-main\FMGenieScout2005-main\FMGenieScout2005-0.0.18\src\FMGenieScout2005.App\obj\Debug\net10.0-windows\ref\FMGenieScout2005.dll
