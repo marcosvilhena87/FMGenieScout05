@@ -1,0 +1,10 @@
+﻿display_name,expected_database_id,found,parsed_identity_name,sequence_index,record_type,record_offset,name_offset,name_matches,status
+"Andrezinho",302728,True,"Andre Luiz",50407,1,0x002F59FD,0x002F5A01,False,ID_CONFIRMADO_NOME_DIVERGENTE
+"André Bahia",311169,True,"Bahia Santos Viana",68196,1,0x00578DF9,0x00578DFD,False,ID_CONFIRMADO_NOME_DIVERGENTE
+"Bruno Santos",8832815,True,"Bruno Santos",11210,1,0x0062BF4B,0x0062BF4F,True,ID_E_NOME_CONFIRMADOS
+"Dimba",303048,True,"Editácio",50294,1,0x002F4662,0x002F4666,False,ID_CONFIRMADO_NOME_DIVERGENTE
+"Douglas Silva",3300410,True,"Douglas Silva",10349,1,0x006232F8,0x006232FC,True,ID_E_NOME_CONFIRMADOS
+"Fabiano Eller",3300219,True,"Eller dos Santos",68361,1,0x0057ACAA,0x0057ACAE,False,ID_CONFIRMADO_NOME_DIVERGENTE
+"Júlio César Moraes",8825041,True,"Coelho de Moraes Júnior",69212,1,0x00584C39,0x00584C3D,False,ID_CONFIRMADO_NOME_DIVERGENTE
+"Júnior Baiano",6900111,True,"Ferreira Ramos Júnior",68979,1,0x00582052,0x00582056,False,ID_CONFIRMADO_NOME_DIVERGENTE
+"Reginaldo Araújo",3300780,True,"Antônio Reginaldo",50358,1,0x002F51B6,0x002F51BA,False,ID_CONFIRMADO_NOME_DIVERGENTE

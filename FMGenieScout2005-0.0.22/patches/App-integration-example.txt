@@ -1,0 +1,19 @@
+Exemplo de integração na interface da 0.0.19
+============================================
+
+using FMGenieScout2005.Core.Diagnostics;
+
+var diagnostic = new PlayerClubReferenceDiagnostic();
+PlayerClubReferenceReport report = await diagnostic.AnalyzeAsync(
+    payloadFile,
+    outputDirectory,
+    new Progress<string>(message => Log(message)),
+    cancellationToken);
+
+Mensagem final sugerida:
+
+$"Concluído. {report.NameOccurrences.Count} ocorrências de nomes e " +
+$"{report.ReferenceHits.Count} referências candidatas foram analisadas."
+
+O diagnóstico resolve automaticamente o SaveIndex do Flamengo por meio do
+Fm2005ClubParser introduzido na versão 0.0.19.

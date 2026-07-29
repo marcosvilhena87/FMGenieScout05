@@ -1,0 +1,89 @@
+﻿FM Genie Scout 2005 — PersonIdentityParserDiagnostic 0.0.22
+==============================================================================================
+Arquivo: C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.4\FMGenieScout2005-gamedb-20260728-213718\game_db.payload.bin
+Tamanho: 11.127.792 bytes
+SHA-256: b45c75fed7eb3e69588fcfae20987565621d3d3b6055401f6e146b0d6435171a
+Identidades únicas extraídas: 6.779
+Candidatos estruturais rejeitados: 148.209
+IDs conhecidos encontrados: 9/9
+IDs e nomes confirmados: 2/9
+
+Estrutura utilizada:
+  Int32 NameLength | UTF-16LE Name | UInt16 0 | UInt16 RecordType | UInt32 189 | UInt32 SequenceIndex | UInt32 DatabaseId
+  DatabaseId fica 12 bytes após o fim dos caracteres UTF-16LE do nome de identidade.
+
+Validação conhecida:
+  Andrezinho               id=  302728 seq=   50407 tipo=   1 | Andre Luiz | ID_CONFIRMADO_NOME_DIVERGENTE
+  André Bahia              id=  311169 seq=   68196 tipo=   1 | Bahia Santos Viana | ID_CONFIRMADO_NOME_DIVERGENTE
+  Bruno Santos             id= 8832815 seq=   11210 tipo=   1 | Bruno Santos | ID_E_NOME_CONFIRMADOS
+  Dimba                    id=  303048 seq=   50294 tipo=   1 | Editácio | ID_CONFIRMADO_NOME_DIVERGENTE
+  Douglas Silva            id= 3300410 seq=   10349 tipo=   1 | Douglas Silva | ID_E_NOME_CONFIRMADOS
+  Fabiano Eller            id= 3300219 seq=   68361 tipo=   1 | Eller dos Santos | ID_CONFIRMADO_NOME_DIVERGENTE
+  Júlio César Moraes       id= 8825041 seq=   69212 tipo=   1 | Coelho de Moraes Júnior | ID_CONFIRMADO_NOME_DIVERGENTE
+  Júnior Baiano            id= 6900111 seq=   68979 tipo=   1 | Ferreira Ramos Júnior | ID_CONFIRMADO_NOME_DIVERGENTE
+  Reginaldo Araújo         id= 3300780 seq=   50358 tipo=   1 | Antônio Reginaldo | ID_CONFIRMADO_NOME_DIVERGENTE
+
+Primeiras identidades por índice sequencial:
+  seq=   8396 id=  5723414 tipo= 78 offset=0x0061126D | Alex
+  seq=   8398 id=  6601065 tipo= 73 offset=0x006112AD | Rodrigo
+  seq=   8399 id=   305050 tipo= 70 offset=0x006112D0 | Anderson
+  seq=   8400 id=   316179 tipo= 64 offset=0x006112F5 | Marquinhos
+  seq=   8401 id=   316904 tipo= 61 offset=0x0061131E | Fernando
+  seq=   8402 id=  8628620 tipo= 59 offset=0x00611343 | Alexandre
+  seq=   8403 id=   320805 tipo= 58 offset=0x0061136A | Júnior
+  seq=   8405 id=  3300756 tipo= 54 offset=0x006113AA | Adriano
+  seq=   8407 id=   306127 tipo= 51 offset=0x006113EE | Luciano
+  seq=   8408 id=  3300489 tipo= 51 offset=0x00611411 | André
+  seq=   8409 id=   316394 tipo= 49 offset=0x00611430 | Róbson
+  seq=   8410 id=   305634 tipo= 48 offset=0x00611451 | Ricardo
+  seq=   8411 id=  6900576 tipo= 48 offset=0x00611474 | Rogério
+  seq=   8413 id=   320955 tipo= 46 offset=0x006114BA | Eduardo
+  seq=   8414 id=   321118 tipo= 46 offset=0x006114DD | Sandro
+  seq=   8415 id=   315696 tipo= 46 offset=0x006114FE | Bruno
+  seq=   8416 id=   320748 tipo= 45 offset=0x0061151D | Márcio
+  seq=   8417 id=   305198 tipo= 43 offset=0x0061153E | Daniel
+  seq=   8419 id=   306726 tipo= 42 offset=0x0061157E | Wellington
+  seq=   8420 id=   306097 tipo= 41 offset=0x006115A7 | Fabiano
+  seq=   8422 id=   317923 tipo= 40 offset=0x006115F1 | Paulinho
+  seq=   8425 id=   317997 tipo= 36 offset=0x00611654 | Júlio César
+  seq=   8427 id=   320306 tipo= 35 offset=0x006116A4 | Carlinhos
+  seq=   8430 id=   306380 tipo= 33 offset=0x00611711 | Renato
+  seq=   8432 id=   312143 tipo= 33 offset=0x00611753 | Marcão
+  seq=   8434 id=  4203215 tipo= 32 offset=0x00611795 | Douglas
+  seq=   8436 id=  3301474 tipo= 32 offset=0x006117D5 | Paulo César
+  seq=   8437 id=   303215 tipo= 31 offset=0x00611800 | Léo
+  seq=   8440 id=   311596 tipo= 30 offset=0x00611865 | Felipe
+  seq=   8441 id=  7643783 tipo= 30 offset=0x00611886 | Beto
+  seq=   8442 id=   304539 tipo= 29 offset=0x006118A3 | Marcelinho
+  seq=   8443 id=  7002858 tipo= 29 offset=0x006118CC | William
+  seq=   8444 id=   311239 tipo= 29 offset=0x006118EF | Serginho
+  seq=   8445 id=   312264 tipo= 28 offset=0x00611914 | Cláudio
+  seq=   8446 id=   318546 tipo= 28 offset=0x00611937 | Fabrício
+  seq=   8447 id=   315461 tipo= 26 offset=0x0061195C | Jefferson
+  seq=   8448 id=   318075 tipo= 25 offset=0x00611983 | Tiago
+  seq=   8450 id=   304581 tipo= 25 offset=0x006119C5 | Michel
+  seq=   8451 id=   457558 tipo= 25 offset=0x006119E6 | Roberto
+  seq=   8452 id=   316859 tipo= 25 offset=0x00611A09 | Gilmar
+  seq=   8455 id=   305995 tipo= 24 offset=0x00611A68 | Índio
+  seq=   8457 id=   306639 tipo= 24 offset=0x00611AA8 | Zé Carlos
+  seq=   8458 id=   304940 tipo= 24 offset=0x00611ACF | Henrique
+  seq=   8460 id=  7981261 tipo= 23 offset=0x00611B17 | Carlos Alberto
+  seq=   8461 id=  3301283 tipo= 23 offset=0x00611B48 | Reinaldo
+  seq=   8463 id=   304495 tipo= 23 offset=0x00611B96 | Carlos
+  seq=   8464 id=  8827633 tipo= 23 offset=0x00611BB7 | João Paulo
+  seq=   8465 id=   304655 tipo= 23 offset=0x00611BE0 | Alemão
+  seq=   8466 id=  3301224 tipo= 23 offset=0x00611C01 | Edílson
+  seq=   8467 id=  8827071 tipo= 23 offset=0x00611C24 | Alan
+  seq=   8469 id=   308422 tipo= 22 offset=0x00611C68 | César
+  seq=   8470 id=   318566 tipo= 21 offset=0x00611C87 | Jorginho
+  seq=   8472 id=   311999 tipo= 21 offset=0x00611CCD | Edu
+  seq=   8473 id=   317514 tipo= 21 offset=0x00611CE8 | Ivan
+  seq=   8474 id=   733827 tipo= 21 offset=0x00611D05 | Éder
+  seq=   8475 id=  8830622 tipo= 21 offset=0x00611D22 | Juliano
+  seq=   8476 id=   316885 tipo= 21 offset=0x00611D45 | Sérgio
+  seq=   8478 id=   315280 tipo= 20 offset=0x00611D89 | Edmílson
+  seq=   8480 id=   319760 tipo= 20 offset=0x00611DCF | Paulo Roberto
+  seq=   8481 id=   316443 tipo= 20 offset=0x00611DFE | Edson
+
+Arquivos gerados: person-identity-parser-report.txt, all-person-identities.csv, known-player-validation.csv e person-identity-structure.txt.
+O save não foi modificado.

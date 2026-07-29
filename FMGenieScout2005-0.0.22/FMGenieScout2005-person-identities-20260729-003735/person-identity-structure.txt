@@ -1,0 +1,11 @@
+﻿FM 2005 — estrutura validada de identidade de pessoa
+==================================================
+Int32  NameLength
+char[] Name (UTF-16LE, NameLength caracteres)
+UInt16 Terminator = 0
+UInt16 RecordType
+UInt32 StructureMarker = 189
+UInt32 SequenceIndex
+UInt32 DatabaseId
+
+DatabaseIdOffset = NameOffset + NameLength * 2 + 12
