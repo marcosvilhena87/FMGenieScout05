@@ -1,0 +1,7 @@
+﻿data_type,relative_to_name_start,player_count,hit_count,coverage,assessment,players
+UINT32,38,3,3,0.333333,CANDIDATO_FRACO,"Douglas Silva | Fabiano Eller | Júnior Baiano"
+UINT32,22,1,1,0.111111,ISOLADO,"Dimba"
+UINT32,34,1,1,0.111111,ISOLADO,"André Bahia"
+UINT32,36,1,1,0.111111,ISOLADO,"Bruno Santos"
+UINT32,44,1,1,0.111111,ISOLADO,"Reginaldo Araújo"
+UINT32,48,1,1,0.111111,ISOLADO,"Júlio César Moraes"

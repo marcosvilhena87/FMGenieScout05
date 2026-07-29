@@ -1,0 +1,83 @@
+﻿FM Genie Scout 2005 — PlayerIdentityStructureDiagnostic 0.0.21
+==============================================================================================
+Arquivo: C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.4\FMGenieScout2005-gamedb-20260728-213718\game_db.payload.bin
+Tamanho: 11.127.792 bytes
+SHA-256: b45c75fed7eb3e69588fcfae20987565621d3d3b6055401f6e146b0d6435171a
+Jogadores conhecidos: 9
+Nomes encontrados: 9/9
+Ocorrências de nomes: 9
+Hits dos IDs conhecidos: 8
+
+Ocorrências por jogador:
+  Andrezinho               id=  302728 ocorrências=  1 hits-id=  0
+  André Bahia              id=  311169 ocorrências=  1 hits-id=  1
+  Bruno Santos             id= 8832815 ocorrências=  1 hits-id=  1
+  Dimba                    id=  303048 ocorrências=  1 hits-id=  1
+  Douglas Silva            id= 3300410 ocorrências=  1 hits-id=  1
+  Fabiano Eller            id= 3300219 ocorrências=  1 hits-id=  1
+  Júlio César Moraes       id= 8825041 ocorrências=  1 hits-id=  1
+  Júnior Baiano            id= 6900111 ocorrências=  1 hits-id=  1
+  Reginaldo Araújo         id= 3300780 ocorrências=  1 hits-id=  1
+
+Melhores offsets do ID em relação ao início do nome:
+  UINT32 rel=   +38 jogadores=3/9 hits=  3 cobertura=33,3% CANDIDATO_FRACO | Douglas Silva | Fabiano Eller | Júnior Baiano
+  UINT32 rel=   +22 jogadores=1/9 hits=  1 cobertura=11,1% ISOLADO | Dimba
+  UINT32 rel=   +34 jogadores=1/9 hits=  1 cobertura=11,1% ISOLADO | André Bahia
+  UINT32 rel=   +36 jogadores=1/9 hits=  1 cobertura=11,1% ISOLADO | Bruno Santos
+  UINT32 rel=   +44 jogadores=1/9 hits=  1 cobertura=11,1% ISOLADO | Reginaldo Araújo
+  UINT32 rel=   +48 jogadores=1/9 hits=  1 cobertura=11,1% ISOLADO | Júlio César Moraes
+
+Melhores campos estruturais:
+  UINT32 rel=  +36 jogadores=9 distintos=9 matches-id=1 taxa=11,1% CAMPO_VARIAVEL | 189 | 1536 | 65536 | 8832815 | 184549380 | 1234108416 | 1534787584 | 1547304960 | 1862296320
+  UINT32 rel=  +44 jogadores=9 distintos=9 matches-id=1 taxa=11,1% CAMPO_VARIAVEL | 11026 | 3300780 | 1241513984 | 1308622848 | 1409286144 | 1627407104 | 1627408896 | 1946184704 | 3808456448
+  UINT32 rel=  +48 jogadores=9 distintos=9 matches-id=1 taxa=11,1% CAMPO_VARIAVEL | 1792 | 8825041 | 536899328 | 1627417856 | 1845522176 | 1862300672 | 1929404672 | 1946187008 | 3808456448
+  BYTE   rel=   -1 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  BYTE   rel=   +1 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  UINT16 rel=   -2 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  BYTE   rel=   -2 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  BYTE   rel=   -3 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  BYTE   rel=   +3 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  BYTE   rel=   -5 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  BYTE   rel=   +5 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  UINT16 rel=   -6 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  BYTE   rel=   -6 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  BYTE   rel=   +7 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  BYTE   rel=   -9 jogadores=9 distintos=9 matches-id=0 taxa=0,0% CAMPO_VARIAVEL | 41 | 57 | 84 | 120 | 132 | 148 | 207 | 229 | 239
+  BYTE   rel=   +9 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  UINT16 rel=  -10 jogadores=9 distintos=9 matches-id=0 taxa=0,0% CAMPO_VARIAVEL | 10496 | 14592 | 21504 | 30720 | 33792 | 37888 | 52992 | 58624 | 61184
+  BYTE   rel=  -10 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  BYTE   rel=  -11 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  BYTE   rel=  +11 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  UINT32 rel=  -12 jogadores=9 distintos=9 matches-id=0 taxa=0,0% CAMPO_VARIAVEL | 687865899 | 956301352 | 1409286185 | 2013265960 | 2214592546 | 2483028005 | 3472883755 | 3841982504 | 4009754661
+  UINT32 rel=  +12 jogadores=9 distintos=9 matches-id=0 taxa=0,0% CAMPO_VARIAVEL | 2097263 | 2097267 | 4325408 | 6357058 | 6357075 | 6553708 | 7209065 | 12386305 | 15269955
+  UINT16 rel=  +12 jogadores=9 distintos=9 matches-id=0 taxa=0,0% CAMPO_VARIAVEL | 1 | 32 | 66 | 67 | 83 | 105 | 108 | 111 | 115
+  BYTE   rel=  +12 jogadores=9 distintos=9 matches-id=0 taxa=0,0% CAMPO_VARIAVEL | 1 | 32 | 66 | 67 | 83 | 105 | 108 | 111 | 115
+  BYTE   rel=  -13 jogadores=9 distintos=9 matches-id=0 taxa=0,0% CAMPO_VARIAVEL | 6 | 14 | 17 | 80 | 108 | 157 | 162 | 189 | 201
+  BYTE   rel=  +13 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  UINT16 rel=  -14 jogadores=9 distintos=9 matches-id=0 taxa=0,0% CAMPO_VARIAVEL | 1536 | 3584 | 4352 | 20480 | 27648 | 40192 | 41472 | 48384 | 51456
+  BYTE   rel=  -14 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  BYTE   rel=  -15 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  BYTE   rel=  +15 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  UINT32 rel=  -16 jogadores=9 distintos=9 matches-id=0 taxa=0,0% CAMPO_VARIAVEL | 100663296 | 234881024 | 285212672 | 1342177280 | 1811939328 | 2634022912 | 2717908992 | 3170893824 | 3372220416
+  UINT16 rel=  -16 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  BYTE   rel=  -16 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  UINT32 rel=  +16 jogadores=9 distintos=9 matches-id=0 taxa=0,0% CAMPO_VARIAVEL | 2097263 | 6357107 | 6881363 | 6881377 | 6881384 | 7077957 | 7274600 | 7602286 | 700317696
+  BYTE   rel=  -17 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 189
+  BYTE   rel=  +17 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  UINT16 rel=  -18 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 48384
+  BYTE   rel=  -18 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  BYTE   rel=  -19 jogadores=9 distintos=3 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 1 | 2 | 6
+  BYTE   rel=  +19 jogadores=9 distintos=2 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0 | 41
+  UINT32 rel=  -20 jogadores=9 distintos=3 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 3170894080 | 3170894336 | 3170895360
+  UINT16 rel=  -20 jogadores=9 distintos=3 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 256 | 512 | 1536
+  BYTE   rel=  -20 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  UINT32 rel=  +20 jogadores=9 distintos=9 matches-id=0 taxa=0,0% CAMPO_VARIAVEL | 97 | 393216 | 2097266 | 6619244 | 7209057 | 7471169 | 7536751 | 7733356 | 2680684544
+  BYTE   rel=  -21 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  BYTE   rel=  +21 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  UINT16 rel=  -22 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  BYTE   rel=  -22 jogadores=9 distintos=1 matches-id=0 taxa=0,0% CAMPO_CONSTANTE | 0
+  UINT16 rel=  +22 jogadores=9 distintos=9 matches-id=0 taxa=0,0% CAMPO_VARIAVEL | 0 | 6 | 32 | 101 | 110 | 114 | 115 | 118 | 40904
+  BYTE   rel=  +22 jogadores=9 distintos=9 matches-id=0 taxa=0,0% CAMPO_VARIAVEL | 0 | 6 | 32 | 101 | 110 | 114 | 115 | 118 | 200
+
+Arquivos gerados: player-identity-layout-report.txt, player-identity-name-hits.csv, player-identity-id-hits.csv, player-identity-offset-summaries.csv, player-identity-field-candidates.csv e player-name-structure-contexts.txt.
+O save não foi modificado.
