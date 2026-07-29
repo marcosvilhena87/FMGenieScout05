@@ -1,0 +1,55 @@
+﻿FM Genie Scout 2005 — MultiSaveClubIdentityDiagnostic 0.0.18
+============================================================================================
+Save 1: C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.4\FMGenieScout2005-gamedb-20260728-213718\game_db.payload.bin
+SHA-256 Save 1: b45c75fed7eb3e69588fcfae20987565621d3d3b6055401f6e146b0d6435171a
+Clubes Save 1: 1.820
+
+Save 2: C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.4\FMGenieScout2005-gamedb-20260728-224926\game_db.payload.bin
+SHA-256 Save 2: 80ce2287f20f4fc4420b9af74ef1a353e8c5f216cc069e16e2fd1fe83b99ad01
+Clubes Save 2: 2.090
+
+Resultado do cruzamento por ClubDatabaseId:
+  Clubes compartilhados: 821
+  Apenas no Save 1:      999
+  Apenas no Save 2:      1.269
+  SaveClubIndex estável: 0
+  SaveClubIndex alterado:   821
+  Nomes divergentes:     0
+
+Interpretação automática:
+  EVIDÊNCIA_FORTE: ClubDatabaseId permaneceu como chave de identidade enquanto SaveClubIndex mudou entre os saves.
+
+Maiores mudanças de SaveClubIndex:
+  id=  400362 Ajaccio                                save1=  1517 save2=   978 delta=   -539
+  id=  401149 Club Africain Tunis                    save1=  1518 save2=   979 delta=   -539
+  id=  450551 Akçaabat Sebatspor                     save1=  1519 save2=   980 delta=   -539
+  id=  475411 Pakhtakor Toshkent                     save1=  1520 save2=   982 delta=   -538
+  id=  477632 Terek Grozny                           save1=  1521 save2=   983 delta=   -538
+  id=  478105 Sheriff Tiraspol                       save1=  1522 save2=   984 delta=   -538
+  id=  478301 FK Dinaburg Daugavpils                 save1=  1523 save2=   985 delta=   -538
+  id=  483003 Neftchi Ferghana                       save1=  1524 save2=   986 delta=   -538
+  id=  483761 WIT-Georgia Tbilisi                    save1=  1525 save2=   988 delta=   -537
+  id=  483867 FHK Liepajas Metalurgs                 save1=  1526 save2=   989 delta=   -537
+  id=  483868 FK Ventspils                           save1=  1527 save2=   990 delta=   -537
+  id=  483914 Mika Ashtarak                          save1=  1528 save2=   995 delta=   -533
+  id=  484440 Regar-TadAZ Tursun-zade                save1=  1529 save2=   998 delta=   -531
+  id=  484441 Nebitchi Balkanabad                    save1=  1530 save2=   999 delta=   -531
+  id=  484467 Zhashtyk-AK-Altyn Kara-Suu             save1=  1531 save2=  1001 delta=   -530
+  id=  485292 FK Vetra                               save1=  1532 save2=  1011 delta=   -521
+  id=  950376 Al Ain                                 save1=  1581 save2=  1060 delta=   -521
+  id=  485431 MOIK Baku                              save1=  1533 save2=  1014 delta=   -519
+  id= 1200885 LD Alajuelense                         save1=  1592 save2=  1076 delta=   -516
+  id= 1201001 Wydad Athletic Club                    save1=  1593 save2=  1077 delta=   -516
+  id= 1201011 Raja Club Athletic                     save1=  1594 save2=  1078 delta=   -516
+  id=  490410 KS Dinamo Tirana                       save1=  1534 save2=  1019 delta=   -515
+  id= 1104147 Accra Hearts of Oak SC                 save1=  1584 save2=  1069 delta=   -515
+  id= 1104149 Al Qadisiyah (KSA)                     save1=  1585 save2=  1070 delta=   -515
+  id= 1300097 FK Shamkir                             save1=  1595 save2=  1080 delta=   -515
+  id= 1200094 Dynamos Harare                         save1=  1586 save2=  1072 delta=   -514
+  id= 1200249 CD FAS                                 save1=  1587 save2=  1073 delta=   -514
+  id= 1200440 CD Luis Angel Firpo                    save1=  1588 save2=  1074 delta=   -514
+  id= 1200609 Club Guerreros de Ciudad Obregón       save1=  1589 save2=  1075 delta=   -514
+  id=  498457 Banants Yerevan                        save1=  1535 save2=  1022 delta=   -513
+
+Arquivos gerados: multi-save-club-identity-report.txt, multi-save-club-identity.csv, changed-save-indices.csv, save-membership-differences.csv, club-name-mismatches.csv e pastas save1-parser/save2-parser.
+Os arquivos de origem não foram modificados.

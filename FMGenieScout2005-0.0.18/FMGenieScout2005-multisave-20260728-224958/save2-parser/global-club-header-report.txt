@@ -1,0 +1,98 @@
+﻿FM Genie Scout 2005 — GlobalClubHeaderDiagnostic 0.0.17
+============================================================================================
+Arquivo: C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.4\FMGenieScout2005-gamedb-20260728-224926\game_db.payload.bin
+Tamanho: 11.655.649 bytes
+SHA-256: 80ce2287f20f4fc4420b9af74ef1a353e8c5f216cc069e16e2fd1fe83b99ad01
+Clubes globais aceitos e únicos: 2.090
+Candidatos rejeitados registrados: 0
+Cobertura conhecida: Série A 21/24 | Série B 5/24
+
+Estrutura exigida:
+  UInt32 ClubRecordIndex | UInt32 ClubId | byte 00 | UInt32 Field1 | UInt32 255 | byte 00 | UInt32 255
+
+Distribuição de Field1:
+       139 ocorrências=  981 | Viborg Fodsports Forening | Aldershot Town | Guiseley | Newport County | Saint Patrick's Athletic | AFC Bournemouth | Altrincham | Arsenal
+       145 ocorrências=   55 | Torpedo Kutaisi | 1.FC Nuremberga | TSV Alemannia Aachen | Bayer 04 Leverkusen | DSC Arminia Bielefeld | VfL Bochum | Borussia Dortmund | Borussia Mönchengladbach
+       170 ocorrências=   45 | Supersport United | Albacete Balompié S.A.D. | U.D. Almería S.A.D. | Athletic Club | C.D. Tenerife S.A.D. | Cádiz | Club Atlético Osasuna | Club Atlético de Madrid S.A.D.
+  4294967295 ocorrências=   36 | Dinamo Minsk | Swindon Town | Wigan Athletic | Uto Gun Gluck | Servette de Genève Football SA | Clube Desportivo Nacional | Wanderers FC | Oxford University
+       150 ocorrências=   34 | Maccabi Tel-Aviv | AC Milão | AS Roma | Ascoli | Atalanta | Bolonha | Brescia | Cagliari
+       189 ocorrências=   31 | CCD Tuluá | C Atlético Mineiro | EC Bahia | Botafogo FR | SC Corinthians Paulista | Cruzeiro EC | CR Flamengo | Fluminense FC
+       143 ocorrências=   23 | FC TPS Turku | Auxerre | Mónaco | St. Etienne | Nantes | Bordéus | Istres | Châteauroux
+       158 ocorrências=   20 | AO Skoda Xanthi | NV ADO Den Haag | AZ Alkmaar | AFC Ajax | De Graafschap | FC Dordrecht | FC Groningen | FC Twente
+       171 ocorrências=   17 | Villarreal | AIK | BK Häcken | Djurgårdens IF | GIF Sundsvall | Halmstad BK | Hammarby IF | Helsingborgs IF
+       109 ocorrências=   16 | Valletta | Club de Fútbol América | Club Deportivo Cruz Azul | Club Guadalajara | Club de Fútbol Monterrey | Club Deportivo Necaxa | Club Deportivo León | Blackburn Olympic
+       165 ocorrências=   16 | Universidade Craiova | CSKA Moscovo | Dinamo Moscovo | Krylja Sovetov Samara | Lokomotiv Moscovo | SC Rotor Volgograd | Spartak Moscovo | Alania Vladikavkaz
+       173 ocorrências=   16 | Thai Farmers Bank | MKE Ankaragücü | Besiktas JK | Bursaspor | Denizlispor | Fenerbahçe SK | Galatasaray SK | Gaziantepspor
+       187 ocorrências=   16 | Primeiro de Maio (ANG) | Argentinos Juniors | Banfield | Boca Juniors | Estudantes de La Plata | Huracán | Independiente | Lanús
+       131 ocorrências=   15 | FK Neftçi Baku | KAA Gent | KSV Cercle Brugge | Club Brugge KV | KFC Dessel Sport | FC Malines | R Standard de Liège | RSC Anderlecht
+       167 ocorrências=   15 | Al Shabab (KSA) | Aberdeen | Clyde | Dundee | Dundee United | Dunfermline Athletic | Celtic | Rangers FC
+       191 ocorrências=   15 | FC The Strongest | Shanghai Shenhua | CD América de Cali | CPD Junior | CD Once Caldas | AC Deportivo Cali | Independiente Santa Fé | CDI Medellín
+       160 ocorrências=   13 | Portadown | FK Bodø-Glimt | Fredrikstad FK | Lillestrøm SK | FC Lyn Oslo | Molde FK | Odd Grenland | Rosenborg BK
+       129 ocorrências=   12 | Shirak Gyumri | FK Austria Viena | Grazer AK | SK Rapid Viena | SK Sturm Graz | Wil | FC Schaffhausen | NK Siroki Brijeg
+       159 ocorrências=   12 | Zimbru Chisinau | Ballymena United | Carrick Rangers | Cliftonville | Coleraine | Crusaders | Lisburn Distillery | Glenavon
+       161 ocorrências=   12 | C Universitario D | Gornik Zabrze | Lech Poznan | Legia-Daewoo Varsóvia | Wisla Plock | Pogon Szczecin | Groclin Grodzisk | Widzew Lodz
+
+Primeiros clubes por ClubRecordIndex:
+  index=     1 id=      61 offset=0x0008FA40 field1=  126 | Sportklub Tirana -> SK Tirana | HIGH
+  index=     2 id=      62 offset=0x0008FAEE field1=  126 | KS Elbasani -> Elbasani | HIGH
+  index=     3 id=      63 offset=0x0008FBB0 field1=  126 | KS Flamurtari Vlorë -> Flamurtari | HIGH
+  index=     4 id=      65 offset=0x0008FC6E field1=  126 | KS Shkumbini Peqin -> Shkumbini | HIGH
+  index=     5 id=      69 offset=0x0008FD67 field1=  126 | Partizani Tirana -> Partizani | HIGH
+  index=     6 id=      71 offset=0x0008FE3E field1=  126 | KS Teuta Durrës -> Teuta | HIGH
+  index=     7 id=      72 offset=0x0008FF3B field1=    1 | KS Vllaznia Shkodër -> Vllaznia | HIGH
+  index=     8 id=      74 offset=0x00090017 field1=    1 | Atlético Petróleos de Luanda -> Petro Atlético | HIGH
+  index=     9 id=      75 offset=0x000900FD field1=    1 | Desportivo Primeiro de Agosto -> Primeiro de Agosto | HIGH
+  index=    10 id=      76 offset=0x000901DD field1=  187 | Primeiro de Maio (ANG) -> Primeiro de Maio (ANG) | HIGH
+  index=    11 id=      78 offset=0x000902B4 field1=  187 | Argentinos Juniors -> Argentinos | HIGH
+  index=    12 id=      80 offset=0x00090392 field1=  187 | Banfield -> Banfield | HIGH
+  index=    13 id=      82 offset=0x000904E6 field1=  187 | Boca Juniors -> Boca | HIGH
+  index=    14 id=      85 offset=0x000905E7 field1=  187 | Estudantes de La Plata -> Estudiantes (LP) | HIGH
+  index=    15 id=      88 offset=0x000906B7 field1=  187 | Huracán -> Huracán | HIGH
+  index=    16 id=      89 offset=0x000907DF field1=  187 | Independiente -> Independiente | HIGH
+  index=    17 id=      90 offset=0x000908B8 field1=  187 | Lanús -> Lanús | HIGH
+  index=    18 id=      91 offset=0x000909C2 field1=  187 | Newell's Old Boys -> Newell's | HIGH
+  index=    19 id=      93 offset=0x00090AC4 field1=  187 | Racing Club -> Racing Club | HIGH
+  index=    20 id=      94 offset=0x00090C3C field1=  187 | River Plate -> River | HIGH
+  index=    21 id=      95 offset=0x00090D1C field1=  187 | Rosario Central -> Central | HIGH
+  index=    22 id=      96 offset=0x00090E58 field1=  187 | San Lorenzo de Almagro -> San Lorenzo | HIGH
+  index=    23 id=      98 offset=0x00090F24 field1=  128 | Vélez Sarsfield -> Vélez | HIGH
+  index=    24 id=      99 offset=0x00090FE5 field1=  128 | Ararat Yerevan -> Ararat | HIGH
+  index=    25 id=     101 offset=0x00091087 field1=  128 | Kotayk Abovyan -> Kotayk | HIGH
+  index=    26 id=     102 offset=0x00091150 field1=  128 | Pyunik Yerevan -> Pyunik | HIGH
+  index=    27 id=     103 offset=0x00091225 field1=  129 | Shirak Gyumri -> Shirak | HIGH
+  index=    28 id=     152 offset=0x00091345 field1=  129 | FK Austria Viena -> Austria Viena | HIGH
+  index=    29 id=     153 offset=0x00091430 field1=  129 | Grazer AK -> GAK | HIGH
+  index=    30 id=     155 offset=0x00091545 field1=  129 | SK Rapid Viena -> Rapid Viena | HIGH
+  index=    31 id=     156 offset=0x00091646 field1=  129 | SK Sturm Graz -> Sturm Graz | HIGH
+  index=    32 id=     158 offset=0x00091729 field1=  130 | SV Salzburgo -> Salzburg | HIGH
+  index=    33 id=     162 offset=0x000917D5 field1=  130 | FK Turan Tovuz -> Turan Tovuz | HIGH
+  index=    34 id=     167 offset=0x000918A5 field1=  131 | FK Neftçi Baku -> Neftçi | HIGH
+  index=    35 id=     168 offset=0x000919A8 field1=  131 | KAA Gent -> AA Gent | HIGH
+  index=    36 id=     184 offset=0x00091A9A field1=  131 | KSV Cercle Brugge -> Cercle Brugge | HIGH
+  index=    37 id=     186 offset=0x00091BF7 field1=  131 | Club Brugge KV -> Club Brugge | HIGH
+  index=    38 id=     188 offset=0x00091CBC field1=  131 | KFC Dessel Sport -> Dessel | HIGH
+  index=    39 id=     232 offset=0x00091D95 field1=  131 | FC Malines -> Malines | HIGH
+  index=    40 id=     250 offset=0x00091EBC field1=  131 | R Standard de Liège -> Standard | HIGH
+  index=    41 id=     256 offset=0x00091FF2 field1=  131 | RSC Anderlecht -> Anderlecht | HIGH
+  index=    42 id=     258 offset=0x0009212B field1=  131 | K Racing Club Genk -> Genk | HIGH
+  index=    43 id=     262 offset=0x00092243 field1=  131 | R Antwerp FC -> Antuérpia | HIGH
+  index=    44 id=     265 offset=0x00092366 field1=  131 | Sporting Lokeren SNW -> Lokeren | HIGH
+  index=    45 id=     266 offset=0x0009246F field1=  131 | KSK Beveren -> Beveren | HIGH
+  index=    46 id=     268 offset=0x00092599 field1=  131 | K Lierse SK -> Lierse | HIGH
+  index=    47 id=     289 offset=0x000926A4 field1=  132 | KVC Westerlo -> Westerlo | HIGH
+  index=    48 id=     303 offset=0x000927C8 field1=4294967295 | Dinamo Minsk -> Din.Minsk | HIGH
+  index=    49 id=     304 offset=0x00092878 field1=  132 | Dinamo-93 Minsk -> Din.93 Minsk | HIGH
+  index=    50 id=     307 offset=0x0009295E field1=  132 | Neman Grodno -> Neman Grodno | HIGH
+  index=    51 id=     308 offset=0x00092A32 field1=  188 | Torpedo-SKA Minsk -> Torpedo Minsk | HIGH
+  index=    52 id=     309 offset=0x00092AE2 field1=  188 | C Bolívar -> Bolívar | HIGH
+  index=    53 id=     311 offset=0x00092BAC field1=  191 | FC The Strongest -> The Strongest | HIGH
+  index=    54 id=     312 offset=0x00092C60 field1=  189 | CCD Tuluá -> Cortuluá | HIGH
+  index=    55 id=     314 offset=0x00092D46 field1=  189 | C Atlético Mineiro -> Atlético Mineiro | HIGH
+  index=    56 id=     315 offset=0x00092DFA field1=  189 | EC Bahia -> Bahia | HIGH
+  index=    57 id=     316 offset=0x00092EC8 field1=  189 | Botafogo FR -> Botafogo | HIGH
+  index=    58 id=     319 offset=0x00092FFC field1=  189 | SC Corinthians Paulista -> Corinthians | HIGH
+  index=    59 id=     321 offset=0x00093102 field1=  189 | Cruzeiro EC -> Cruzeiro | HIGH
+  index=    60 id=     322 offset=0x000931E0 field1=  189 | CR Flamengo -> Flamengo | HIGH
+
+Arquivos gerados: global-club-header-report.txt, all-clubs.csv, club-header-field-distributions.csv, duplicate-club-ids.csv, rejected-club-candidates.csv e known-club-coverage.csv.
+O arquivo de origem não foi modificado.
