@@ -1,0 +1,77 @@
+﻿FM Genie Scout 2005 — PersonReferenceDiagnostic 0.0.23
+==============================================================================================
+Arquivo: C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.4\FMGenieScout2005-gamedb-20260728-213718\game_db.payload.bin
+Tamanho: 11.127.792 bytes
+SHA-256: b45c75fed7eb3e69588fcfae20987565621d3d3b6055401f6e146b0d6435171a
+Flamengo: ClubDatabaseId=322 | SaveClubIndex=51
+Ocorrências globais de referências: 60
+Hits de clube em ±256 bytes: 113
+Pessoas não resolvidas: 0
+
+Ocorrências por jogador e tipo de referência:
+  André Bahia              DATABASE_ID        ocorrências=   3 fora_identidade=   2
+  André Bahia              INTERNAL_PERSON_ID ocorrências=   2 fora_identidade=   1
+  Andrezinho               DATABASE_ID        ocorrências=   2 fora_identidade=   1
+  Andrezinho               INTERNAL_PERSON_ID ocorrências=   3 fora_identidade=   2
+  Bruno Santos             DATABASE_ID        ocorrências=   2 fora_identidade=   1
+  Bruno Santos             INTERNAL_PERSON_ID ocorrências=   9 fora_identidade=   8
+  Dimba                    DATABASE_ID        ocorrências=   4 fora_identidade=   3
+  Dimba                    INTERNAL_PERSON_ID ocorrências=   3 fora_identidade=   2
+  Douglas Silva            DATABASE_ID        ocorrências=   2 fora_identidade=   1
+  Douglas Silva            INTERNAL_PERSON_ID ocorrências=   8 fora_identidade=   7
+  Fabiano Eller            DATABASE_ID        ocorrências=   3 fora_identidade=   2
+  Fabiano Eller            INTERNAL_PERSON_ID ocorrências=   2 fora_identidade=   1
+  Júlio César Moraes       DATABASE_ID        ocorrências=   3 fora_identidade=   2
+  Júlio César Moraes       INTERNAL_PERSON_ID ocorrências=   2 fora_identidade=   1
+  Júnior Baiano            DATABASE_ID        ocorrências=   3 fora_identidade=   2
+  Júnior Baiano            INTERNAL_PERSON_ID ocorrências=   2 fora_identidade=   1
+  Reginaldo Araújo         DATABASE_ID        ocorrências=   4 fora_identidade=   3
+  Reginaldo Araújo         INTERNAL_PERSON_ID ocorrências=   3 fora_identidade=   2
+
+Melhores offsets pessoa → clube:
+  DATABASE_ID        CLUB_SAVE_INDEX   UINT16 rel=  -17 | jogadores=7 hits=7 | CANDIDATO_FORTE | André Bahia | Andrezinho | Bruno Santos | Douglas Silva | Fabiano Eller | Júlio César Moraes | Reginaldo Araújo
+  DATABASE_ID        CLUB_SAVE_INDEX   UINT32 rel=  -17 | jogadores=7 hits=7 | CANDIDATO_FORTE | André Bahia | Andrezinho | Bruno Santos | Douglas Silva | Fabiano Eller | Júlio César Moraes | Reginaldo Araújo
+  INTERNAL_PERSON_ID CLUB_DATABASE_ID  UINT16 rel=  -73 | jogadores=4 hits=4 | CANDIDATO_MEDIO | André Bahia | Fabiano Eller | Júlio César Moraes | Júnior Baiano
+  INTERNAL_PERSON_ID CLUB_DATABASE_ID  UINT32 rel=  -73 | jogadores=4 hits=4 | CANDIDATO_MEDIO | André Bahia | Fabiano Eller | Júlio César Moraes | Júnior Baiano
+  DATABASE_ID        CLUB_SAVE_INDEX   UINT16 rel=  -57 | jogadores=3 hits=3 | CANDIDATO_FRACO | André Bahia | Andrezinho | Bruno Santos
+  DATABASE_ID        CLUB_SAVE_INDEX   UINT32 rel=  -57 | jogadores=3 hits=3 | CANDIDATO_FRACO | André Bahia | Andrezinho | Bruno Santos
+  DATABASE_ID        CLUB_SAVE_INDEX   UINT16 rel=  -81 | jogadores=3 hits=3 | CANDIDATO_FRACO | Dimba | Douglas Silva | Reginaldo Araújo
+  DATABASE_ID        CLUB_SAVE_INDEX   UINT32 rel=  -81 | jogadores=3 hits=3 | CANDIDATO_FRACO | Dimba | Douglas Silva | Reginaldo Araújo
+  DATABASE_ID        CLUB_SAVE_INDEX   UINT16 rel=  179 | jogadores=2 hits=2 | CANDIDATO_FRACO | Andrezinho | Reginaldo Araújo
+  DATABASE_ID        CLUB_SAVE_INDEX   UINT32 rel=  179 | jogadores=2 hits=2 | CANDIDATO_FRACO | Andrezinho | Reginaldo Araújo
+  DATABASE_ID        CLUB_DATABASE_ID  UINT16 rel= -236 | jogadores=2 hits=2 | CANDIDATO_FRACO | André Bahia | Andrezinho
+  DATABASE_ID        CLUB_DATABASE_ID  UINT32 rel= -236 | jogadores=2 hits=2 | CANDIDATO_FRACO | André Bahia | Andrezinho
+  INTERNAL_PERSON_ID CLUB_DATABASE_ID  UINT16 rel=  -69 | jogadores=2 hits=2 | CANDIDATO_FRACO | Andrezinho | Dimba
+  INTERNAL_PERSON_ID CLUB_DATABASE_ID  UINT32 rel=  -69 | jogadores=2 hits=2 | CANDIDATO_FRACO | Andrezinho | Dimba
+  INTERNAL_PERSON_ID CLUB_SAVE_INDEX   UINT16 rel=  101 | jogadores=2 hits=2 | CANDIDATO_FRACO | Fabiano Eller | Júnior Baiano
+  INTERNAL_PERSON_ID CLUB_SAVE_INDEX   UINT32 rel=  101 | jogadores=2 hits=2 | CANDIDATO_FRACO | Fabiano Eller | Júnior Baiano
+  INTERNAL_PERSON_ID CLUB_SAVE_INDEX   UINT16 rel=  106 | jogadores=2 hits=2 | CANDIDATO_FRACO | André Bahia | Júlio César Moraes
+  INTERNAL_PERSON_ID CLUB_SAVE_INDEX   UINT32 rel=  106 | jogadores=2 hits=2 | CANDIDATO_FRACO | André Bahia | Júlio César Moraes
+  DATABASE_ID        CLUB_SAVE_INDEX   UINT16 rel=  -65 | jogadores=1 hits=1 | ISOLADO | Júlio César Moraes
+  DATABASE_ID        CLUB_SAVE_INDEX   UINT32 rel=  -65 | jogadores=1 hits=1 | ISOLADO | Júlio César Moraes
+  DATABASE_ID        CLUB_SAVE_INDEX   UINT16 rel=  -73 | jogadores=1 hits=1 | ISOLADO | Fabiano Eller
+  DATABASE_ID        CLUB_SAVE_INDEX   UINT32 rel=  -73 | jogadores=1 hits=1 | ISOLADO | Fabiano Eller
+  DATABASE_ID        CLUB_DATABASE_ID  UINT16 rel=   89 | jogadores=1 hits=1 | ISOLADO | Bruno Santos
+  DATABASE_ID        CLUB_DATABASE_ID  UINT32 rel=   89 | jogadores=1 hits=1 | ISOLADO | Bruno Santos
+  DATABASE_ID        CLUB_SAVE_INDEX   UINT16 rel= -113 | jogadores=1 hits=1 | ISOLADO | Júnior Baiano
+  DATABASE_ID        CLUB_SAVE_INDEX   UINT32 rel= -113 | jogadores=1 hits=1 | ISOLADO | Júnior Baiano
+  DATABASE_ID        CLUB_SAVE_INDEX   UINT16 rel=  123 | jogadores=1 hits=1 | ISOLADO | André Bahia
+  DATABASE_ID        CLUB_SAVE_INDEX   UINT32 rel=  123 | jogadores=1 hits=1 | ISOLADO | André Bahia
+  DATABASE_ID        CLUB_DATABASE_ID  UINT16 rel= -166 | jogadores=1 hits=1 | ISOLADO | Fabiano Eller
+  DATABASE_ID        CLUB_DATABASE_ID  UINT16 rel= -220 | jogadores=1 hits=1 | ISOLADO | Bruno Santos
+  DATABASE_ID        CLUB_DATABASE_ID  UINT32 rel= -220 | jogadores=1 hits=1 | ISOLADO | Bruno Santos
+  DATABASE_ID        CLUB_SAVE_INDEX   UINT16 rel=  237 | jogadores=1 hits=1 | ISOLADO | Reginaldo Araújo
+  DATABASE_ID        CLUB_SAVE_INDEX   UINT32 rel=  237 | jogadores=1 hits=1 | ISOLADO | Reginaldo Araújo
+  DATABASE_ID        CLUB_DATABASE_ID  UINT16 rel= -244 | jogadores=1 hits=1 | ISOLADO | Júlio César Moraes
+  DATABASE_ID        CLUB_DATABASE_ID  UINT32 rel= -244 | jogadores=1 hits=1 | ISOLADO | Júlio César Moraes
+  DATABASE_ID        CLUB_SAVE_INDEX   UINT16 rel=  246 | jogadores=1 hits=1 | ISOLADO | Júnior Baiano
+  DATABASE_ID        CLUB_SAVE_INDEX   UINT32 rel=  246 | jogadores=1 hits=1 | ISOLADO | Júnior Baiano
+  DATABASE_ID        CLUB_DATABASE_ID  UINT16 rel= -247 | jogadores=1 hits=1 | ISOLADO | Fabiano Eller
+  DATABASE_ID        CLUB_DATABASE_ID  UINT32 rel= -247 | jogadores=1 hits=1 | ISOLADO | Fabiano Eller
+  DATABASE_ID        CLUB_SAVE_INDEX   UINT16 rel=  252 | jogadores=1 hits=1 | ISOLADO | Bruno Santos
+
+Interpretação automática:
+  EVIDÊNCIA_FORTE: DATABASE_ID possui CLUB_SAVE_INDEX/UINT16 no offset relativo -17 para 7 jogadores.
+
+Arquivos gerados: person-reference-report.txt, person-reference-occurrences.csv, person-reference-club-hits.csv, person-reference-offset-summaries.csv, person-reference-contexts.txt e people-not-resolved.txt.
+O arquivo de origem não foi modificado.
