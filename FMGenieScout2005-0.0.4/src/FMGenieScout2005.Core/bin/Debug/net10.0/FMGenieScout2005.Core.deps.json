@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "FMGenieScout2005.Core/0.0.4": {
+        "runtime": {
+          "FMGenieScout2005.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FMGenieScout2005.Core/0.0.4": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.4\src\FMGenieScout2005.Core\bin\Debug\net10.0\FMGenieScout2005.Core.deps.json
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.4\src\FMGenieScout2005.Core\bin\Debug\net10.0\FMGenieScout2005.Core.dll
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.4\src\FMGenieScout2005.Core\bin\Debug\net10.0\FMGenieScout2005.Core.pdb
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.4\src\FMGenieScout2005.Core\obj\Debug\net10.0\FMGenieScout2005.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.4\src\FMGenieScout2005.Core\obj\Debug\net10.0\FMGenieScout2005.Core.AssemblyInfoInputs.cache
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.4\src\FMGenieScout2005.Core\obj\Debug\net10.0\FMGenieScout2005.Core.AssemblyInfo.cs
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.4\src\FMGenieScout2005.Core\obj\Debug\net10.0\FMGenieScout2005.Core.csproj.CoreCompileInputs.cache
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.4\src\FMGenieScout2005.Core\obj\Debug\net10.0\FMGenieScout2005.Core.dll
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.4\src\FMGenieScout2005.Core\obj\Debug\net10.0\refint\FMGenieScout2005.Core.dll
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.4\src\FMGenieScout2005.Core\obj\Debug\net10.0\FMGenieScout2005.Core.pdb
+C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.4\src\FMGenieScout2005.Core\obj\Debug\net10.0\ref\FMGenieScout2005.Core.dll
