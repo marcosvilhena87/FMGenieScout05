@@ -1,0 +1,153 @@
+﻿FM Genie Scout 2005 — CurrentContractReferenceDiagnostic 0.0.25
+==================================================================================================
+Arquivo: C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.4\FMGenieScout2005-gamedb-20260728-213718\game_db.payload.bin
+Tamanho: 11.127.792 bytes
+SHA-256: b45c75fed7eb3e69588fcfae20987565621d3d3b6055401f6e146b0d6435171a
+Flamengo SaveIndex: 51
+Corinthians SaveIndex: 48
+Ocorrências de pessoa: 929
+Hits do clube esperado em ±4.096 bytes: 803
+Pessoas não resolvidas: 0
+
+Melhores offsets compartilhados entre os dois clubes:
+  INTERNAL_PERSON_ID  UINT16 rel=   110 | FLA=1 COR=4 total=5 hits=5 | CURRENT_CLUB_CANDIDATE_WEAK
+    Flamengo: Andrezinho
+    Corinthians: Bruno Octávio | Dinélson | Édson Araújo | Rosinei
+  INTERNAL_PERSON_ID  UINT32 rel=   110 | FLA=1 COR=4 total=5 hits=5 | CURRENT_CLUB_CANDIDATE_WEAK
+    Flamengo: Andrezinho
+    Corinthians: Bruno Octávio | Dinélson | Édson Araújo | Rosinei
+  PERSON_DATABASE_ID  UINT16 rel=   -65 | FLA=1 COR=2 total=3 hits=3 | AUXILIARY_REFERENCE
+    Flamengo: Júlio César Moraes
+    Corinthians: Dinélson | Fábio Costa
+  PERSON_DATABASE_ID  UINT32 rel=   -65 | FLA=1 COR=2 total=3 hits=3 | AUXILIARY_REFERENCE
+    Flamengo: Júlio César Moraes
+    Corinthians: Dinélson | Fábio Costa
+  INTERNAL_PERSON_ID  UINT16 rel=   101 | FLA=2 COR=1 total=3 hits=3 | AUXILIARY_REFERENCE
+    Flamengo: Fabiano Eller | Júnior Baiano
+    Corinthians: Marcelo Magalhães
+  INTERNAL_PERSON_ID  UINT32 rel=   101 | FLA=2 COR=1 total=3 hits=3 | AUXILIARY_REFERENCE
+    Flamengo: Fabiano Eller | Júnior Baiano
+    Corinthians: Marcelo Magalhães
+  INTERNAL_PERSON_ID  UINT16 rel=   106 | FLA=2 COR=1 total=3 hits=3 | AUXILIARY_REFERENCE
+    Flamengo: André Bahia | Júlio César Moraes
+    Corinthians: Luciano Ratinho
+  INTERNAL_PERSON_ID  UINT32 rel=   106 | FLA=2 COR=1 total=3 hits=3 | AUXILIARY_REFERENCE
+    Flamengo: André Bahia | Júlio César Moraes
+    Corinthians: Luciano Ratinho
+  PERSON_DATABASE_ID  UINT16 rel=   252 | FLA=1 COR=2 total=3 hits=3 | AUXILIARY_REFERENCE
+    Flamengo: Bruno Santos
+    Corinthians: Dinélson | Rosinei
+  PERSON_DATABASE_ID  UINT32 rel=   252 | FLA=1 COR=2 total=3 hits=3 | AUXILIARY_REFERENCE
+    Flamengo: Bruno Santos
+    Corinthians: Dinélson | Rosinei
+  PERSON_DATABASE_ID  UINT16 rel=   292 | FLA=1 COR=2 total=3 hits=3 | AUXILIARY_REFERENCE
+    Flamengo: Bruno Santos
+    Corinthians: Dinélson | Rosinei
+  PERSON_DATABASE_ID  UINT32 rel=   292 | FLA=1 COR=2 total=3 hits=3 | AUXILIARY_REFERENCE
+    Flamengo: Bruno Santos
+    Corinthians: Dinélson | Rosinei
+  PERSON_DATABASE_ID  UINT16 rel=   -73 | FLA=1 COR=1 total=2 hits=2 | AUXILIARY_REFERENCE
+    Flamengo: Fabiano Eller
+    Corinthians: Fábio Baiano
+  PERSON_DATABASE_ID  UINT32 rel=   -73 | FLA=1 COR=1 total=2 hits=2 | AUXILIARY_REFERENCE
+    Flamengo: Fabiano Eller
+    Corinthians: Fábio Baiano
+  PERSON_DATABASE_ID  UINT16 rel=   -57 | FLA=3 COR=0 total=3 hits=3 | AUXILIARY_REFERENCE
+    Flamengo: André Bahia | Andrezinho | Bruno Santos
+  PERSON_DATABASE_ID  UINT32 rel=   -57 | FLA=3 COR=0 total=3 hits=3 | AUXILIARY_REFERENCE
+    Flamengo: André Bahia | Andrezinho | Bruno Santos
+  PERSON_DATABASE_ID  UINT16 rel=   -81 | FLA=3 COR=0 total=3 hits=3 | AUXILIARY_REFERENCE
+    Flamengo: Dimba | Douglas Silva | Reginaldo Araújo
+  PERSON_DATABASE_ID  UINT32 rel=   -81 | FLA=3 COR=0 total=3 hits=3 | AUXILIARY_REFERENCE
+    Flamengo: Dimba | Douglas Silva | Reginaldo Araújo
+  PERSON_DATABASE_ID  UINT16 rel=   -48 | FLA=0 COR=2 total=2 hits=2 | AUXILIARY_REFERENCE
+    Corinthians: Bruno Octávio | Rosinei
+  PERSON_DATABASE_ID  UINT32 rel=   -48 | FLA=0 COR=2 total=2 hits=2 | AUXILIARY_REFERENCE
+    Corinthians: Bruno Octávio | Rosinei
+  INTERNAL_PERSON_ID  UINT16 rel=    97 | FLA=0 COR=2 total=2 hits=2 | AUXILIARY_REFERENCE
+    Corinthians: Fábio Baiano | Fábio Costa
+  INTERNAL_PERSON_ID  UINT32 rel=    97 | FLA=0 COR=2 total=2 hits=2 | AUXILIARY_REFERENCE
+    Corinthians: Fábio Baiano | Fábio Costa
+  PERSON_DATABASE_ID  UINT16 rel=   179 | FLA=2 COR=0 total=2 hits=2 | AUXILIARY_REFERENCE
+    Flamengo: Andrezinho | Reginaldo Araújo
+  PERSON_DATABASE_ID  UINT32 rel=   179 | FLA=2 COR=0 total=2 hits=2 | AUXILIARY_REFERENCE
+    Flamengo: Andrezinho | Reginaldo Araújo
+  INTERNAL_PERSON_ID  UINT16 rel=   192 | FLA=0 COR=2 total=2 hits=2 | AUXILIARY_REFERENCE
+    Corinthians: Édson Araújo | Luciano Ratinho
+  INTERNAL_PERSON_ID  UINT32 rel=   192 | FLA=0 COR=2 total=2 hits=2 | AUXILIARY_REFERENCE
+    Corinthians: Édson Araújo | Luciano Ratinho
+  PERSON_DATABASE_ID  UINT16 rel=   303 | FLA=2 COR=0 total=2 hits=2 | AUXILIARY_REFERENCE
+    Flamengo: Andrezinho | Reginaldo Araújo
+  PERSON_DATABASE_ID  UINT32 rel=   303 | FLA=2 COR=0 total=2 hits=2 | AUXILIARY_REFERENCE
+    Flamengo: Andrezinho | Reginaldo Araújo
+  INTERNAL_PERSON_ID  UINT16 rel=   411 | FLA=2 COR=0 total=2 hits=2 | AUXILIARY_REFERENCE
+    Flamengo: Bruno Santos | Reginaldo Araújo
+  INTERNAL_PERSON_ID  UINT32 rel=   411 | FLA=2 COR=0 total=2 hits=2 | AUXILIARY_REFERENCE
+    Flamengo: Bruno Santos | Reginaldo Araújo
+  PERSON_DATABASE_ID  UINT16 rel=  1235 | FLA=0 COR=2 total=2 hits=2 | AUXILIARY_REFERENCE
+    Corinthians: Marcelo Magalhães | Rosinei
+  PERSON_DATABASE_ID  UINT32 rel=  1235 | FLA=0 COR=2 total=2 hits=2 | AUXILIARY_REFERENCE
+    Corinthians: Marcelo Magalhães | Rosinei
+  INTERNAL_PERSON_ID  UINT16 rel=  -230 | FLA=0 COR=1 total=1 hits=2 | AUXILIARY_REFERENCE
+    Corinthians: Édson Araújo
+  INTERNAL_PERSON_ID  UINT16 rel=  2496 | FLA=0 COR=1 total=1 hits=2 | AUXILIARY_REFERENCE
+    Corinthians: Édson Araújo
+  INTERNAL_PERSON_ID  UINT16 rel= -3004 | FLA=0 COR=1 total=1 hits=2 | AUXILIARY_REFERENCE
+    Corinthians: Édson Araújo
+  INTERNAL_PERSON_ID  UINT16 rel= -3122 | FLA=0 COR=1 total=1 hits=2 | AUXILIARY_REFERENCE
+    Corinthians: Édson Araújo
+  INTERNAL_PERSON_ID  UINT16 rel=  3810 | FLA=0 COR=1 total=1 hits=2 | AUXILIARY_REFERENCE
+    Corinthians: Édson Araújo
+  INTERNAL_PERSON_ID  UINT16 rel=    -3 | FLA=0 COR=1 total=1 hits=1 | AUXILIARY_REFERENCE
+    Corinthians: Édson Araújo
+  INTERNAL_PERSON_ID  UINT32 rel=    -3 | FLA=0 COR=1 total=1 hits=1 | AUXILIARY_REFERENCE
+    Corinthians: Édson Araújo
+  PERSON_DATABASE_ID  UINT16 rel=   -25 | FLA=0 COR=1 total=1 hits=1 | AUXILIARY_REFERENCE
+    Corinthians: Alessandro
+  PERSON_DATABASE_ID  UINT32 rel=   -25 | FLA=0 COR=1 total=1 hits=1 | AUXILIARY_REFERENCE
+    Corinthians: Alessandro
+  PERSON_DATABASE_ID  UINT16 rel=   -33 | FLA=0 COR=1 total=1 hits=1 | AUXILIARY_REFERENCE
+    Corinthians: Luciano Ratinho
+  PERSON_DATABASE_ID  UINT32 rel=   -33 | FLA=0 COR=1 total=1 hits=1 | AUXILIARY_REFERENCE
+    Corinthians: Luciano Ratinho
+  INTERNAL_PERSON_ID  UINT16 rel=    40 | FLA=0 COR=1 total=1 hits=1 | AUXILIARY_REFERENCE
+    Corinthians: Édson Araújo
+  INTERNAL_PERSON_ID  UINT32 rel=    40 | FLA=0 COR=1 total=1 hits=1 | AUXILIARY_REFERENCE
+    Corinthians: Édson Araújo
+  INTERNAL_PERSON_ID  UINT16 rel=   -41 | FLA=0 COR=1 total=1 hits=1 | AUXILIARY_REFERENCE
+    Corinthians: Édson Araújo
+  PERSON_DATABASE_ID  UINT16 rel=   -41 | FLA=0 COR=1 total=1 hits=1 | AUXILIARY_REFERENCE
+    Corinthians: Marcelo Magalhães
+  PERSON_DATABASE_ID  UINT32 rel=   -41 | FLA=0 COR=1 total=1 hits=1 | AUXILIARY_REFERENCE
+    Corinthians: Marcelo Magalhães
+  INTERNAL_PERSON_ID  UINT16 rel=   -42 | FLA=0 COR=1 total=1 hits=1 | AUXILIARY_REFERENCE
+    Corinthians: Édson Araújo
+  INTERNAL_PERSON_ID  UINT16 rel=    57 | FLA=0 COR=1 total=1 hits=1 | AUXILIARY_REFERENCE
+    Corinthians: Édson Araújo
+  INTERNAL_PERSON_ID  UINT16 rel=   -64 | FLA=0 COR=1 total=1 hits=1 | AUXILIARY_REFERENCE
+    Corinthians: Édson Araújo
+  INTERNAL_PERSON_ID  UINT16 rel=   -71 | FLA=0 COR=1 total=1 hits=1 | AUXILIARY_REFERENCE
+    Corinthians: Édson Araújo
+  INTERNAL_PERSON_ID  UINT32 rel=   -71 | FLA=0 COR=1 total=1 hits=1 | AUXILIARY_REFERENCE
+    Corinthians: Édson Araújo
+  INTERNAL_PERSON_ID  UINT16 rel=   -72 | FLA=0 COR=1 total=1 hits=1 | AUXILIARY_REFERENCE
+    Corinthians: Édson Araújo
+  PERSON_DATABASE_ID  UINT16 rel=   -89 | FLA=0 COR=1 total=1 hits=1 | AUXILIARY_REFERENCE
+    Corinthians: Alessandro
+  PERSON_DATABASE_ID  UINT32 rel=   -89 | FLA=0 COR=1 total=1 hits=1 | AUXILIARY_REFERENCE
+    Corinthians: Alessandro
+  INTERNAL_PERSON_ID  UINT16 rel=   -90 | FLA=0 COR=1 total=1 hits=1 | AUXILIARY_REFERENCE
+    Corinthians: Édson Araújo
+  INTERNAL_PERSON_ID  UINT16 rel=    90 | FLA=0 COR=1 total=1 hits=1 | AUXILIARY_REFERENCE
+    Corinthians: Édson Araújo
+  INTERNAL_PERSON_ID  UINT16 rel=   102 | FLA=1 COR=0 total=1 hits=1 | AUXILIARY_REFERENCE
+    Flamengo: Bruno Santos
+  INTERNAL_PERSON_ID  UINT32 rel=   102 | FLA=1 COR=0 total=1 hits=1 | AUXILIARY_REFERENCE
+    Flamengo: Bruno Santos
+
+Interpretação automática:
+  MELHOR_CANDIDATO: offset +110, cobertura Flamengo=1, Corinthians=4; ainda requer nova validação.
+
+O offset −17 é registrado nos hits, mas excluído dos resumos por já ter sido rejeitado como clube atual.
+Arquivos gerados: current-contract-reference-report.txt, current-contract-occurrences.csv, current-club-reference-hits.csv, current-club-offset-summaries.csv, current-club-contexts.txt e players-without-current-club-pattern.txt.
+O arquivo de origem não foi modificado.
