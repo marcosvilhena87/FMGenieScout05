@@ -1,0 +1,120 @@
+﻿FM Genie Scout 2005 — ContractRecordBoundaryDiagnostic 0.0.26
+====================================================================================================
+Arquivo: C:\Minha_Pasta\Jogos\Football Manager\FM2005\FMGenieScout2005\FMGenieScout2005-0.0.4\FMGenieScout2005-gamedb-20260728-213718\game_db.payload.bin
+Tamanho: 11.127.792 bytes
+SHA-256: b45c75fed7eb3e69588fcfae20987565621d3d3b6055401f6e146b0d6435171a
+Flamengo SaveIndex: 51
+Corinthians SaveIndex: 48
+Ocorrências de referências: 929
+Clusters de assinatura: 760
+Candidatos de limite: 515
+Pessoas não resolvidas: 0
+
+Melhores clusters estruturais:
+  SAME_CLUB_OR_VARIANT_CLUSTER INTERNAL_PERSON_ID   hash=87B4DBF1E0404F0B players= 4 FLA= 0 COR= 4 normal= 4 special= 0 hits=  4 | Bruno Octávio | Dinélson | Édson Araújo | Rosinei
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=4112AC0468D489DA players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  5 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=4980D99F7FED33F9 players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  5 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=4B098FDAE338C86A players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  5 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=659C8CA3A689DF3F players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  5 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=394BD2043B24F004 players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  4 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=7FAE13CE3CAF08FA players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  4 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=9BB03F89C93A258F players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  4 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=AEC60DC029AB5C11 players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  4 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=C37DE9F39038D1EC players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  4 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=EB17B80AE3E4DA57 players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  4 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=EC99C1CBD64478F5 players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  4 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=F20346FFD352799C players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  4 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=0AEB65D85BB39257 players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  3 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=1AFC994D39C54447 players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  3 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=20FB76DB7C678159 players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  3 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=30FE2467EA054EA4 players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  3 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=3307F356A78C988E players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  3 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=4C4BCEB6665E6692 players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  3 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=4DDE9B3C981D9624 players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  3 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=523FAC6F14F58ACC players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  3 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=556B5840AA35F601 players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  3 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=89498F4CBB1C29C4 players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  3 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=8A111A780961A999 players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  3 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=C2FAE5C35CD89AFC players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  3 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=E38F0E9FED71C3D5 players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  3 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=FFD105C64AC2FC2B players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  3 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=058AE09FF9F94BDF players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  2 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=0772A67342A7710C players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  2 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=0A5BD85D31E1567D players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  2 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=0D7DEEA4B80F1CC6 players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  2 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=14F71A5EC8CD23FA players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  2 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=196B120E0D21F5C7 players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  2 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=1F510D26E63D898C players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  2 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=1FDDFFC0FDD41AEE players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  2 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=21A34D7751D0340B players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  2 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=25F4EB26BE326489 players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  2 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=2630B5CFB87DDE0A players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  2 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=2AFF862B1694FB71 players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  2 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=2BB7C4E6C5A0580E players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  2 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=2E1C695FDD85E32A players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  2 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=3BEA5546377D353E players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  2 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=3D00D28C6BCCD1DD players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  2 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=418FCBACA1835843 players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  2 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=41CB81B36DA8D6A4 players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  2 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=43094CA1127F1BF5 players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  2 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=4407A62848BDFFF9 players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  2 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=47231B86E2F35C8A players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  2 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=510E6CABD229B3B9 players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  2 | Édson Araújo
+  ISOLATED_LAYOUT              INTERNAL_PERSON_ID   hash=58341E1A0ABAFAEB players= 1 FLA= 0 COR= 1 normal= 1 special= 0 hits=  2 | Édson Araújo
+
+Melhores candidatos de limite:
+  BOUNDARY_CANDIDATE_STRONG    PERSON_DATABASE_ID   ZERO_RUN_AFTER           rel=   31 players=10 FLA= 6 COR= 4 hits= 10 | Andrezinho | Bruno Santos | Dimba | Dinélson | Fábio Baiano | Júlio César Moraes | Júnior Baiano | Marcelo Magalhães | Reginaldo Araújo | Rosinei
+  BOUNDARY_CANDIDATE_MEDIUM    INTERNAL_PERSON_ID   ZERO_RUN_BEFORE          rel=  -71 players= 7 FLA= 4 COR= 3 hits=  7 | Alessandro | André Bahia | Fabiano Eller | Júlio César Moraes | Júnior Baiano | Luciano Ratinho | Marcelo Magalhães
+  BOUNDARY_CANDIDATE_MEDIUM    PERSON_DATABASE_ID   ZERO_RUN_BEFORE          rel=  -16 players= 6 FLA= 4 COR= 2 hits=  6 | Alessandro | André Bahia | Fabiano Eller | Fábio Costa | Júlio César Moraes | Reginaldo Araújo
+  BOUNDARY_CANDIDATE_MEDIUM    INTERNAL_PERSON_ID   ZERO_RUN_AFTER           rel=    6 players= 5 FLA= 2 COR= 3 hits=  5 | Bruno Santos | Douglas Silva | Édson Araújo | Fábio Baiano | Fábio Costa
+  BOUNDARY_CANDIDATE_MEDIUM    INTERNAL_PERSON_ID   ZERO_RUN_BEFORE          rel=  -21 players= 4 FLA= 2 COR= 2 hits=  4 | Bruno Santos | Douglas Silva | Fábio Baiano | Fábio Costa
+  BOUNDARY_CANDIDATE_MEDIUM    INTERNAL_PERSON_ID   ZERO_RUN_BEFORE          rel=  -25 players= 4 FLA= 2 COR= 2 hits=  4 | Bruno Santos | Douglas Silva | Fábio Baiano | Fábio Costa
+  BOUNDARY_CANDIDATE_WEAK      INTERNAL_PERSON_ID   ZERO_RUN_AFTER           rel=  120 players= 4 FLA= 1 COR= 3 hits=  4 | Andrezinho | Bruno Octávio | Édson Araújo | Rosinei
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   ZERO_RUN_AFTER           rel=    7 players= 3 FLA= 2 COR= 1 hits= 11 | Bruno Santos | Douglas Silva | Édson Araújo
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   ZERO_RUN_BEFORE          rel=  -12 players= 3 FLA= 1 COR= 2 hits=  4 | Douglas Silva | Édson Araújo | Fábio Baiano
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   ZERO_RUN_AFTER           rel=   64 players= 3 FLA= 1 COR= 2 hits=  4 | André Bahia | Édson Araújo | Marcelo Magalhães
+  ISOLATED_BOUNDARY            PERSON_DATABASE_ID   ZERO_RUN_BEFORE          rel=  -43 players= 3 FLA= 2 COR= 1 hits=  3 | Andrezinho | Bruno Santos | Édson Araújo
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   ZERO_RUN_BEFORE          rel=  -67 players= 3 FLA= 1 COR= 2 hits=  3 | Andrezinho | Dinélson | Édson Araújo
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   ZERO_RUN_AFTER           rel=  111 players= 3 FLA= 1 COR= 2 hits=  3 | Alessandro | Édson Araújo | Fabiano Eller
+  ISOLATED_BOUNDARY            PERSON_DATABASE_ID   ZERO_RUN_AFTER           rel=   46 players= 2 FLA= 1 COR= 1 hits=  2 | Fabiano Eller | Fábio Costa
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   ZERO_RUN_BEFORE          rel=  -66 players= 2 FLA= 1 COR= 1 hits=  2 | Fábio Baiano | Reginaldo Araújo
+  ISOLATED_BOUNDARY            PERSON_DATABASE_ID   ZERO_RUN_AFTER           rel=   87 players= 2 FLA= 1 COR= 1 hits=  2 | André Bahia | Bruno Octávio
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   ZERO_RUN_AFTER           rel=  116 players= 2 FLA= 1 COR= 1 hits=  2 | Júlio César Moraes | Luciano Ratinho
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   KNOWN_REFERENCE_AFTER    rel=  186 players= 2 FLA= 1 COR= 1 hits=  2 | Dimba | Édson Araújo
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   ZERO_RUN_AFTER           rel=   23 players= 3 FLA= 0 COR= 3 hits= 17 | Édson Araújo | Fábio Baiano | Fábio Costa
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   ZERO_RUN_AFTER           rel=    0 players= 2 FLA= 0 COR= 2 hits=  3 | Édson Araújo | Fábio Baiano
+  ISOLATED_BOUNDARY            PERSON_DATABASE_ID   ZERO_RUN_BEFORE          rel=  -18 players= 2 FLA= 0 COR= 2 hits=  2 | Bruno Octávio | Rosinei
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   ZERO_RUN_BEFORE          rel=  -51 players= 2 FLA= 0 COR= 2 hits=  2 | Bruno Octávio | Rosinei
+  ISOLATED_BOUNDARY            PERSON_DATABASE_ID   ZERO_RUN_BEFORE          rel=  -67 players= 2 FLA= 2 COR= 0 hits=  2 | Dimba | Douglas Silva
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   ZERO_RUN_BEFORE          rel=  -75 players= 2 FLA= 0 COR= 2 hits=  2 | Fábio Baiano | Fábio Costa
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   ZERO_RUN_AFTER           rel=  107 players= 2 FLA= 0 COR= 2 hits=  2 | Fábio Baiano | Fábio Costa
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   ZERO_RUN_AFTER           rel=  112 players= 2 FLA= 2 COR= 0 hits=  2 | Bruno Santos | Douglas Silva
+  ISOLATED_BOUNDARY            PERSON_DATABASE_ID   KNOWN_REFERENCE_BEFORE   rel= -158 players= 2 FLA= 0 COR= 2 hits=  2 | Bruno Octávio | Rosinei
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   KNOWN_REFERENCE_AFTER    rel=  158 players= 2 FLA= 0 COR= 2 hits=  2 | Bruno Octávio | Rosinei
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   KNOWN_REFERENCE_AFTER    rel=   35 players= 1 FLA= 0 COR= 1 hits=132 | Édson Araújo
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   KNOWN_REFERENCE_BEFORE   rel=  -35 players= 1 FLA= 0 COR= 1 hits=132 | Édson Araújo
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   KNOWN_REFERENCE_AFTER    rel=   33 players= 1 FLA= 0 COR= 1 hits=131 | Édson Araújo
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   KNOWN_REFERENCE_BEFORE   rel=  -33 players= 1 FLA= 0 COR= 1 hits=131 | Édson Araújo
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   KNOWN_REFERENCE_AFTER    rel=   31 players= 1 FLA= 0 COR= 1 hits= 95 | Édson Araújo
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   KNOWN_REFERENCE_BEFORE   rel=  -31 players= 1 FLA= 0 COR= 1 hits= 95 | Édson Araújo
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   KNOWN_REFERENCE_AFTER    rel=   37 players= 1 FLA= 0 COR= 1 hits= 68 | Édson Araújo
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   KNOWN_REFERENCE_BEFORE   rel=  -37 players= 1 FLA= 0 COR= 1 hits= 68 | Édson Araújo
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   KNOWN_REFERENCE_AFTER    rel=   39 players= 1 FLA= 0 COR= 1 hits= 56 | Édson Araújo
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   KNOWN_REFERENCE_BEFORE   rel=  -39 players= 1 FLA= 0 COR= 1 hits= 56 | Édson Araújo
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   KNOWN_REFERENCE_AFTER    rel=   29 players= 1 FLA= 0 COR= 1 hits= 38 | Édson Araújo
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   KNOWN_REFERENCE_BEFORE   rel=  -29 players= 1 FLA= 0 COR= 1 hits= 38 | Édson Araújo
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   KNOWN_REFERENCE_AFTER    rel=   47 players= 1 FLA= 0 COR= 1 hits= 37 | Édson Araújo
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   KNOWN_REFERENCE_BEFORE   rel=  -47 players= 1 FLA= 0 COR= 1 hits= 37 | Édson Araújo
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   KNOWN_REFERENCE_AFTER    rel=   41 players= 1 FLA= 0 COR= 1 hits= 33 | Édson Araújo
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   KNOWN_REFERENCE_BEFORE   rel=  -41 players= 1 FLA= 0 COR= 1 hits= 33 | Édson Araújo
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   KNOWN_REFERENCE_AFTER    rel=   45 players= 1 FLA= 0 COR= 1 hits= 32 | Édson Araújo
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   KNOWN_REFERENCE_BEFORE   rel=  -45 players= 1 FLA= 0 COR= 1 hits= 32 | Édson Araújo
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   KNOWN_REFERENCE_AFTER    rel=   43 players= 1 FLA= 0 COR= 1 hits= 29 | Édson Araújo
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   KNOWN_REFERENCE_BEFORE   rel=  -43 players= 1 FLA= 0 COR= 1 hits= 29 | Édson Araújo
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   KNOWN_REFERENCE_AFTER    rel=   49 players= 1 FLA= 0 COR= 1 hits= 29 | Édson Araújo
+  ISOLATED_BOUNDARY            INTERNAL_PERSON_ID   KNOWN_REFERENCE_BEFORE   rel=  -49 players= 1 FLA= 0 COR= 1 hits= 29 | Édson Araújo
+
+Interpretação: clusters compartilhados pelos dois clubes são candidatos a layouts comuns; clusters concentrados em NORMAL ou SPECIAL podem representar variantes de contrato, empréstimo, listagem ou inscrição.
+Nenhum campo é tratado como clube atual nesta etapa.
+
+Arquivos: contract-record-boundary-report.txt, contract-reference-occurrences.csv, contract-signature-clusters.csv, contract-boundary-candidates.csv, contract-record-contexts.txt e people-not-resolved.txt.
